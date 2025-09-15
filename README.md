@@ -1,1 +1,1 @@
-Trabajo practico de patrones recreacionales sin lombock
+Repositorio de Github para el trabajo practico solicitado de Patrones Creacionales sin Lombok en la materia de Desarrollo de Software 3k10 - 2025 Integrantes: Cecilia Calvo, Gabriel Villalobos, Laureano Rojas, Marcos del Bosco, Federica Benito
